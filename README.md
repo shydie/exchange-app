@@ -1,4 +1,6 @@
-Exchange App
+## Basic demo React+Mobx Exchange App
+
+Developed using https://exchangeratesapi.io/ API<br>
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
